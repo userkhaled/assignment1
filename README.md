@@ -1,4 +1,4 @@
-This code to send student email using java mail .
+This my part in the code is to send student email using java mail .
 
 Group names 
 
